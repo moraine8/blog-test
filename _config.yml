@@ -1,0 +1,13 @@
+title: サンプルブログ
+description: サンプルブログの詳細
+baseurl: ""
+url: "https://moraine8.github.io"
+
+timezone: Asia/Tokyo
+
+markdown: kramdown
+
+permalink: /posts/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed

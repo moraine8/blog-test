@@ -1,7 +1,7 @@
 title: サンプルブログ
 description: サンプルブログの詳細
-baseurl: ""
-url: "https://moraine8.github.io"
+baseurl: "blog-test"
+url: "https://moraine8.github.io/"
 
 timezone: Asia/Tokyo
 
